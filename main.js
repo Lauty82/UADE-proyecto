@@ -12,5 +12,5 @@ function formulario() {
         //Previene el envio
         event.preventDefault();       
         form.style.display = "none";
-        mensaje.style.display = "block";
+        mensaje.style.display = "flex";
     }); }

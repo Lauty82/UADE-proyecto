@@ -81,6 +81,9 @@ body {
 .post-envio {
     display: none;
 }
+.emojiform {
+    width: 30%;
+}
 @media (max-width: 991px) {
     .imgcv {
         width: 40%;
